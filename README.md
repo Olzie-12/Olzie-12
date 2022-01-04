@@ -2,7 +2,7 @@
 
 I'm Olzie-12, Java and C# Developer. I love programming, solving solutions and patterns, I've been a Java developer for 4 years and C# 2 years.
 I've contributed to a lot of fun projects in the past, these include:
-- (OlzieDevelopment)[https://olziedev.com/projects]
+- [OlzieDevelopment](https://olziedev.com)
 - Retro Rivals
 - MCWipeout
 - LogicSMP
