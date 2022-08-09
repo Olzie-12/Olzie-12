@@ -1,7 +1,10 @@
-#### Hi there 👋 I'm Olzie-12 the founder of [Olzie Development](https://olziedev.com), a Java and C# Developer. I love programming, solving solutions and patterns, I've been a Java developer for 4 years and C# 2 years.
+#### Hi there 👋 I'm Olzie-12 the founder of [Olzie Development](https://olziedev.com), I'm a Java and C# Developer. I love programming, the more i program the more it motivates me to program more!
+
+I've had a lot of experiences and opportunities while programming that be working with huge youtubers or huge Minecraft servers with thousands of players.
+Below is a list of all the huge projects i've currently contrubuted to (and hopefully more in the future)
 
 
-#### I've contributed to a lot of fun projects in the past (hopefully more), these include:
+#### Project contributions:
 - Retro Rivals
 - MCWipeout
 - LogicSMP
