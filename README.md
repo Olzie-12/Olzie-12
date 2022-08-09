@@ -7,6 +7,8 @@
 - LogicSMP
 - DemocracyCraft
 - Zyphon Network
+- 1N Productions
+- PrisonEx
 
 ## Here is some fun stats for you! 😉
 [![trophy](https://github-profile-trophy.vercel.app/?username=olzie-12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
