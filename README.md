@@ -12,6 +12,7 @@ Below is a list of all the huge projects i've currently contrubuted to (and hope
 - Zyphon Network
 - 1N Productions
 - PrisonEx
+- TerraeMC
 
 ## Here is some fun stats for you! 😉
 [![trophy](https://github-profile-trophy.vercel.app/?username=olzie-12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
