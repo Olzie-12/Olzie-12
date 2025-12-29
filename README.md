@@ -13,6 +13,7 @@ Below is a list of all the huge projects i've currently contrubuted to (and hope
 - 1N Productions
 - PrisonEx
 - TerraeMC
+- CityRP
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
