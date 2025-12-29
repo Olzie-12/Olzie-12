@@ -15,6 +15,6 @@ Below is a list of all the huge projects i've currently contrubuted to (and hope
 - TerraeMC
 
 ## Here is some fun stats for you! 😉
-[![trophy](https://github-profile-trophy.vercel.app/?username=olzie-12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=olzie-12&theme=onedark)]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olzie-12&show_icons=true&theme=midnight-purple)
